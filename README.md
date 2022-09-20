@@ -1,3 +1,5 @@
+# Deprecated in favor of the terraform module: https://github.com/aptible/terraform-aptible-metrics
+
 # Aptible Metric Drain Generator
 
 ## Goal
